@@ -87,6 +87,11 @@ places=[
 "Indonesia",
 "Brazil",
 "Australia",
+"Japan",
+"Italy",
+"Spain",
+"France",
+"Germany",
 ]
 
 # Start the Headline Generate Loop
