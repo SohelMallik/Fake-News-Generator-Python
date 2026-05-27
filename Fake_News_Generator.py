@@ -82,6 +82,11 @@ places=[
 "Odisha",
 "Ranchi",
 "Bhopal",
+"India",
+"Saruvanshi",
+"Indonesia",
+"Brazil",
+"Australia",
 ]
 
 # Start the Headline Generate Loop
