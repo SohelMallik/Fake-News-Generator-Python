@@ -11,7 +11,7 @@ subjects=[
 "Patna City",
 "Delhi Authorities",
 "Chennai Marina Beach",
-"Lucknow’s Imambara",
+"Lucknow Imambara",
 "Jaipur Municipal Body",
 "Kerala Backwaters",
 "Hyderabad Biryani Shops",
@@ -25,17 +25,17 @@ subjects=[
 "Odisha Temple Committee",
 "Ranchi Zoo",
 "Bhopal Authorities",
-"India’s First AI-Powered City",
-"India’s First Floating City",
-"India’s First Solar-Powered City",
-"Saruvanshi’s AI-Run City",
+"India First AI-Powered City",
+"India First Floating City",
+"India First Solar-Powered City",
+"Saruvanshi AI-Run City",
 ]
 #Create Actions
 actions=[
   "Introduces Adda Coaches with free chai and rosogolla",
 "Launches app delivering idli within 3 minutes",
 "Announces silent rides day using hand signals",
-"Hosts world’s largest litti-chokha festival",
+"Hosts worlds largest litti-chokha festival",
 "Install AC benches to fight heat",
 "Adds Wi-Fi-powered swings for online classes",
 "To light up with drone-powered chandeliers",
@@ -51,7 +51,14 @@ actions=[
 "Build scooter that runs on sugarcane juice",
 "Replaces loudspeakers with conch-shaped Bluetooth devices",
 "Trains parrots to mimic traffic rules",
-"Set up India’s first floating cricket pitch",
+"Set up Indias first floating cricket pitch",
+"To build worlds largest sandcastle on the beach",
+"Launches AI-powered rickshaws that predict traffic jams",
+"Introduces solar-powered auto-rickshaws with built-in fans",
+"Starts a campaign to replace all traffic signals with dance performances",
+"Announces a new law requiring all citizens to wear hats shaped like their favorite food",
+"To build a giant statue of a popular celebrity in the city center",
+
 ]
 #Create places
 places=[
