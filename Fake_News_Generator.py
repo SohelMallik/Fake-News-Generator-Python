@@ -25,6 +25,10 @@ subjects=[
 "Odisha Temple Committee",
 "Ranchi Zoo",
 "Bhopal Authorities",
+"India’s First AI-Powered City",
+"India’s First Floating City",
+"India’s First Solar-Powered City",
+"Saruvanshi’s AI-Run City",
 ]
 #Create Actions
 actions=[
