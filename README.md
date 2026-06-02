@@ -148,6 +148,7 @@ subjects = [
 ]
 ```
 
+
 The same pattern applies to `actions` and `places`. No other changes are needed.
 
 **Changing the output file name:**
